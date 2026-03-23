@@ -1,0 +1,91 @@
+[
+    {
+        "cartInfoList": [
+            {
+                "cartPrice": 5299,
+                "couponInfoList": null,
+                "createTime": "2026-03-01 10:30:00",
+                "id": 1001,
+                "imgUrl": "/images/mobile01.png",
+                "isChecked": 1,
+                "operateTime": "2026-03-05 14:20:00",
+                "orderTime": null,
+                "skuId": 1,
+                "skuName": "Apple iPhone 15 Pro Max 256GB 原色钛金属",
+                "skuNum": 1,
+                "skuPrice": 5299,
+                "sourceId": "",
+                "sourceType": 1,
+                "userId": "user_12345"
+            },
+            {
+                "cartPrice": 3999,
+                "couponInfoList": null,
+                "createTime": "2026-03-02 15:45:00",
+                "id": 1002,
+                "imgUrl": "/images/mobile02.png",
+                "isChecked": 1,
+                "operateTime": "2026-03-06 09:15:00",
+                "orderTime": null,
+                "skuId": 2,
+                "skuName": "华为 Mate 60 Pro 12GB+512GB 雅丹黑",
+                "skuNum": 2,
+                "skuPrice": 3999,
+                "sourceId": "",
+                "sourceType": 1,
+                "userId": "user_12345"
+            },
+            {
+                "cartPrice": 2999,
+                "couponInfoList": null,
+                "createTime": "2026-03-03 11:20:00",
+                "id": 1003,
+                "imgUrl": "/images/mobile03.png",
+                "isChecked": 0,
+                "operateTime": "2026-03-07 16:30:00",
+                "orderTime": null,
+                "skuId": 3,
+                "skuName": "小米14 Ultra 16GB+512GB 黑色",
+                "skuNum": 1,
+                "skuPrice": 2999,
+                "sourceId": "",
+                "sourceType": 1,
+                "userId": "user_12345"
+            },
+            {
+                "cartPrice": 199,
+                "couponInfoList": null,
+                "createTime": "2026-03-04 09:00:00",
+                "id": 1004,
+                "imgUrl": "/images/mobile03.png",
+                "isChecked": 1,
+                "operateTime": "2026-03-08 11:45:00",
+                "orderTime": null,
+                "skuId": 4,
+                "skuName": "Apple MagSafe 磁吸保护壳 透明",
+                "skuNum": 3,
+                "skuPrice": 199,
+                "sourceId": "",
+                "sourceType": 1,
+                "userId": "user_12345"
+            },
+            {
+                "cartPrice": 99,
+                "couponInfoList": null,
+                "createTime": "2026-03-05 14:10:00",
+                "id": 1005,
+                "imgUrl": "/images/mobile02.png",
+                "isChecked": 0,
+                "operateTime": "2026-03-09 10:20:00",
+                "orderTime": null,
+                "skuId": 5,
+                "skuName": "快充数据线 Type-C 1.5米",
+                "skuNum": 2,
+                "skuPrice": 99,
+                "sourceId": "",
+                "sourceType": 1,
+                "userId": "user_12345"
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": [
+    {
+      "categoryId": 1,
+      "categoryName": "家用电器",
+      "categoryChild": [
+        {
+          "categoryId": 11,
+          "categoryName": "电视",
+          "categoryChild": [
+            { "categoryId": 111, "categoryName": "智能电视" },
+            { "categoryId": 112, "categoryName": "4K超清" },
+            { "categoryId": 113, "categoryName": "曲面电视" }
+          ]
+        },
+        {
+          "categoryId": 12,
+          "categoryName": "空调",
+          "categoryChild": [
+            { "categoryId": 121, "categoryName": "变频空调" },
+            { "categoryId": 122, "categoryName": "中央空调" }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "手机数码",
+      "categoryChild": [
+        {
+          "categoryId": 21,
+          "categoryName": "手机",
+          "categoryChild": [
+            { "categoryId": 211, "categoryName": "智能手机" },
+            { "categoryId": 212, "categoryName": "折叠屏手机" }
+          ]
+        },
+        {
+          "categoryId": 22,
+          "categoryName": "电脑",
+          "categoryChild": [
+            { "categoryId": 221, "categoryName": "笔记本" },
+            { "categoryId": 222, "categoryName": "台式机" }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "服装鞋包",
+      "categoryChild": [
+        {
+          "categoryId": 31,
+          "categoryName": "男装",
+          "categoryChild": [
+            { "categoryId": 311, "categoryName": "T恤" },
+            { "categoryId": 312, "categoryName": "衬衫" }
+          ]
+        },
+        {
+          "categoryId": 32,
+          "categoryName": "女装",
+          "categoryChild": [
+            { "categoryId": 321, "categoryName": "连衣裙" },
+            { "categoryId": 322, "categoryName": "外套" }
+          ]
+        }
+      ]
+    }
+  ]
+}

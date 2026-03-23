@@ -1,0 +1,403 @@
+[
+    {
+        "valuesSkuJson": "{\"3|5|7\":6,\"3|6|7\":7,\"4|5|7\":8,\"4|6|7\":9}",
+        "price": 2999,
+        "categoryView": {
+            "id": 123,
+            "category1Id": 1,
+            "category1Name": "手机数码",
+            "category2Id": 2,
+            "category2Name": "手机",
+            "category3Id": 3,
+            "category3Name": "智能手机"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": 101,
+                "baseSaleAttrId": 3,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 1,
+                        "spuId": 101,
+                        "baseSaleAttrId": 3,
+                        "saleAttrName": "颜色",
+                        "saleAttrValueName": "黑色",
+                        "isChecked": 1
+                    },
+                    {
+                        "id": 2,
+                        "spuId": 101,
+                        "baseSaleAttrId": 3,
+                        "saleAttrName": "颜色",
+                        "saleAttrValueName": "白色",
+                        "isChecked": 0
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "spuId": 101,
+                "baseSaleAttrId": 5,
+                "saleAttrName": "内存",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 3,
+                        "spuId": 101,
+                        "baseSaleAttrId": 5,
+                        "saleAttrName": "内存",
+                        "saleAttrValueName": "64GB",
+                        "isChecked": 1
+                    },
+                    {
+                        "id": 4,
+                        "spuId": 101,
+                        "baseSaleAttrId": 5,
+                        "saleAttrName": "内存",
+                        "saleAttrValueName": "128GB",
+                        "isChecked": 0
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "spuId": 101,
+                "baseSaleAttrId": 7,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 5,
+                        "spuId": 101,
+                        "baseSaleAttrId": 7,
+                        "saleAttrName": "版本",
+                        "saleAttrValueName": "标准版",
+                        "isChecked": 1
+                    }
+                ]
+            }
+        ],
+        "skuInfo": [
+            {
+                "category3Id": 3,
+                "createTime": "2026-01-01 00:00:00",
+                "id": 6,
+                "isSale": 1,
+                "price": 2999,
+                "skuAttrValueList": [
+                    {
+                        "attrId": 3,
+                        "valueId": 1,
+                        "attrName": "颜色",
+                        "valueName": "黑色"
+                    },
+                    {
+                        "attrId": 5,
+                        "valueId": 3,
+                        "attrName": "内存",
+                        "valueName": "64GB"
+                    },
+                    {
+                        "attrId": 7,
+                        "valueId": 5,
+                        "attrName": "版本",
+                        "valueName": "标准版"
+                    }
+                ],
+                "skuDefaultImg": "images/s1.png",
+                "skuDesc": "6.5英寸全面屏，骁龙888处理器，4800万像素三摄",
+                "skuImageList": [
+                    {
+                        "id": 1,
+                        "skuId": 6,
+                        "imgName": "正面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=black%20smartphone%20front%20view&size=800x800"
+                    },
+                    {
+                        "id": 2,
+                        "skuId": 6,
+                        "imgName": "背面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=black%20smartphone%20back%20view&size=800x800"
+                    },
+                    {
+                        "id": 3,
+                        "skuId": 6,
+                        "imgName": "侧面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=black%20smartphone%20side%20view&size=800x800"
+                    }
+                ],
+                "skuName": "智能手机 黑色 64GB 标准版",
+                "skuSaleAttrValueList": [
+                    {
+                        "id": 1,
+                        "skuId": 6,
+                        "spuId": 101,
+                        "baseSaleAttrId": 3,
+                        "saleAttrName": "颜色",
+                        "saleAttrValueName": "黑色"
+                    },
+                    {
+                        "id": 3,
+                        "skuId": 6,
+                        "spuId": 101,
+                        "baseSaleAttrId": 5,
+                        "saleAttrName": "内存",
+                        "saleAttrValueName": "64GB"
+                    },
+                    {
+                        "id": 5,
+                        "skuId": 6,
+                        "spuId": 101,
+                        "baseSaleAttrId": 7,
+                        "saleAttrName": "版本",
+                        "saleAttrValueName": "标准版"
+                    }
+                ],
+                "spuId": 101,
+                "tmId": 1,
+                "weight": "0.2kg"
+            },
+            {
+                "category3Id": 3,
+                "createTime": "2026-01-01 00:00:00",
+                "id": 7,
+                "isSale": 1,
+                "price": 3299,
+                "skuAttrValueList": [
+                    {
+                        "attrId": 3,
+                        "valueId": 1,
+                        "attrName": "颜色",
+                        "valueName": "黑色"
+                    },
+                    {
+                        "attrId": 5,
+                        "valueId": 4,
+                        "attrName": "内存",
+                        "valueName": "128GB"
+                    },
+                    {
+                        "attrId": 7,
+                        "valueId": 5,
+                        "attrName": "版本",
+                        "valueName": "标准版"
+                    }
+                ],
+                "skuDefaultImg": "https://neeko-copilot.bytedance.net/api/text2image?prompt=black%20smartphone&size=800x800",
+                "skuDesc": "6.5英寸全面屏，骁龙888处理器，4800万像素三摄",
+                "skuImageList": [
+                    {
+                        "id": 4,
+                        "skuId": 7,
+                        "imgName": "正面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=black%20smartphone%20front%20view&size=800x800"
+                    },
+                    {
+                        "id": 5,
+                        "skuId": 7,
+                        "imgName": "背面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=black%20smartphone%20back%20view&size=800x800"
+                    }
+                ],
+                "skuName": "智能手机 黑色 128GB 标准版",
+                "skuSaleAttrValueList": [
+                    {
+                        "id": 1,
+                        "skuId": 7,
+                        "spuId": 101,
+                        "baseSaleAttrId": 3,
+                        "saleAttrName": "颜色",
+                        "saleAttrValueName": "黑色"
+                    },
+                    {
+                        "id": 4,
+                        "skuId": 7,
+                        "spuId": 101,
+                        "baseSaleAttrId": 5,
+                        "saleAttrName": "内存",
+                        "saleAttrValueName": "128GB"
+                    },
+                    {
+                        "id": 5,
+                        "skuId": 7,
+                        "spuId": 101,
+                        "baseSaleAttrId": 7,
+                        "saleAttrName": "版本",
+                        "saleAttrValueName": "标准版"
+                    }
+                ],
+                "spuId": 101,
+                "tmId": 1,
+                "weight": "0.2kg"
+            },
+            {
+                "category3Id": 3,
+                "createTime": "2026-01-01 00:00:00",
+                "id": 8,
+                "isSale": 1,
+                "price": 3199,
+                "skuAttrValueList": [
+                    {
+                        "attrId": 3,
+                        "valueId": 2,
+                        "attrName": "颜色",
+                        "valueName": "白色"
+                    },
+                    {
+                        "attrId": 5,
+                        "valueId": 3,
+                        "attrName": "内存",
+                        "valueName": "64GB"
+                    },
+                    {
+                        "attrId": 7,
+                        "valueId": 5,
+                        "attrName": "版本",
+                        "valueName": "标准版"
+                    }
+                ],
+                "skuDefaultImg": "https://neeko-copilot.bytedance.net/api/text2image?prompt=white%20smartphone&size=800x800",
+                "skuDesc": "6.5英寸全面屏，骁龙888处理器，4800万像素三摄",
+                "skuImageList": [
+                    {
+                        "id": 6,
+                        "skuId": 8,
+                        "imgName": "正面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=white%20smartphone%20front%20view&size=800x800"
+                    },
+                    {
+                        "id": 7,
+                        "skuId": 8,
+                        "imgName": "背面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=white%20smartphone%20back%20view&size=800x800"
+                    }
+                ],
+                "skuName": "智能手机 白色 64GB 标准版",
+                "skuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "skuId": 8,
+                        "spuId": 101,
+                        "baseSaleAttrId": 3,
+                        "saleAttrName": "颜色",
+                        "saleAttrValueName": "白色"
+                    },
+                    {
+                        "id": 3,
+                        "skuId": 8,
+                        "spuId": 101,
+                        "baseSaleAttrId": 5,
+                        "saleAttrName": "内存",
+                        "saleAttrValueName": "64GB"
+                    },
+                    {
+                        "id": 5,
+                        "skuId": 8,
+                        "spuId": 101,
+                        "baseSaleAttrId": 7,
+                        "saleAttrName": "版本",
+                        "saleAttrValueName": "标准版"
+                    }
+                ],
+                "spuId": 101,
+                "tmId": 1,
+                "weight": "0.2kg"
+            },
+            {
+                "category3Id": 3,
+                "createTime": "2026-01-01 00:00:00",
+                "id": 9,
+                "isSale": 1,
+                "price": 3499,
+                "skuAttrValueList": [
+                    {
+                        "attrId": 3,
+                        "valueId": 2,
+                        "attrName": "颜色",
+                        "valueName": "白色"
+                    },
+                    {
+                        "attrId": 5,
+                        "valueId": 4,
+                        "attrName": "内存",
+                        "valueName": "128GB"
+                    },
+                    {
+                        "attrId": 7,
+                        "valueId": 5,
+                        "attrName": "版本",
+                        "valueName": "标准版"
+                    }
+                ],
+                "skuDefaultImg": "https://neeko-copilot.bytedance.net/api/text2image?prompt=white%20smartphone&size=800x800",
+                "skuDesc": "6.5英寸全面屏，骁龙888处理器，4800万像素三摄",
+                "skuImageList": [
+                    {
+                        "id": 8,
+                        "skuId": 9,
+                        "imgName": "正面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=white%20smartphone%20front%20view&size=800x800"
+                    },
+                    {
+                        "id": 9,
+                        "skuId": 9,
+                        "imgName": "背面图",
+                        "imgUrl": "https://neeko-copilot.bytedance.net/api/text2image?prompt=white%20smartphone%20back%20view&size=800x800"
+                    }
+                ],
+                "skuName": "智能手机 白色 128GB 标准版",
+                "skuSaleAttrValueList": [
+                    {
+                        "id": 2,
+                        "skuId": 9,
+                        "spuId": 101,
+                        "baseSaleAttrId": 3,
+                        "saleAttrName": "颜色",
+                        "saleAttrValueName": "白色"
+                    },
+                    {
+                        "id": 4,
+                        "skuId": 9,
+                        "spuId": 101,
+                        "baseSaleAttrId": 5,
+                        "saleAttrName": "内存",
+                        "saleAttrValueName": "128GB"
+                    },
+                    {
+                        "id": 5,
+                        "skuId": 9,
+                        "spuId": 101,
+                        "baseSaleAttrId": 7,
+                        "saleAttrName": "版本",
+                        "saleAttrValueName": "标准版"
+                    }
+                ],
+                "spuId": 101,
+                "tmId": 1,
+                "weight": "0.2kg"
+            }
+        ],
+        "skuImageList": [
+            {
+                "id": 1,
+                "imgUrl": "images/s1.png"
+            },
+            {
+                "id": 2,
+                "imgUrl": "images/s2.png"
+            },
+            {
+                "id": 3,
+                "imgUrl": "images/s3.png"
+            },
+            {
+                "id": 4,
+                "imgUrl": "images/s1.png"
+            },
+            {
+                "id": 5,
+                "imgUrl": "images/s2.png"
+            }
+        ]
+    }
+]

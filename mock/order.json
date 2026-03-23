@@ -1,0 +1,104 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "id": 2,
+        "consignee": "李明",
+        "consigneeTel": "13912345678",
+        "deliveryAddress": "上海市浦东新区张江高科技园区博云路2号",
+        "paymentWay": "在线支付",
+        "orderId": 852147964,
+        "orderTime": "2024-01-14 10:15:30",
+        "totalAmount": 238599,
+        "totalNum": 5,
+        "orderStatus": "待发货",
+        "tradeNo": "963b57794d675017cc9e14fe6867f0f6",
+        "detailArrayList": [
+            {
+                "id": 1002,
+                "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu81-macbook.jpg",
+                "orderId": 852147964,
+                "orderPrice": 12999,
+                "refundStatus": 0,
+                "refundStatusString": "",
+                "skuId": 12,
+                "skuName": "Apple MacBook Pro 14英寸 M3 Pro芯片",
+                "skuNum": 1,
+                "sourceType": "QUERY"
+            },
+            {
+                "id": 1003,
+                "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu81-airpods.jpg",
+                "orderId": 852147964,
+                "orderPrice": 1899,
+                "refundStatus": 0,
+                "refundStatusString": "",
+                "skuId": 13,
+                "skuName": "Apple AirPods Pro (第二代)",
+                "skuNum": 2,
+                "sourceType": "QUERY"
+            },
+            {
+                "id": 1004,
+                "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu81-watch.jpg",
+                "orderId": 852147964,
+                "orderPrice": 3299,
+                "refundStatus": 0,
+                "refundStatusString": "",
+                "skuId": 14,
+                "skuName": "Apple Watch Series 9 GPS 45mm",
+                "skuNum": 1,
+                "sourceType": "QUERY"
+            },
+            {
+                "id": 1005,
+                "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu81-mouse.jpg",
+                "orderId": 852147964,
+                "orderPrice": 699,
+                "refundStatus": 0,
+                "refundStatusString": "",
+                "skuId": 15,
+                "skuName": "Apple Magic Mouse 妙控鼠标",
+                "skuNum": 1,
+                "sourceType": "QUERY"
+            }
+        ],
+        "records": [
+            {
+                "createTime": "2024-01-14 10:15:30",
+                "consignee": "李明",
+                "consigneeTel": "13912345678",
+                "deliveryAddress": "上海市浦东新区张江高科技园区博云路2号",
+                "paymentWay": "在线支付",
+                "orderId": 852147964,
+                "orderTime": "2024-01-14 10:15:30",
+                "totalAmount": 238599,
+                "totalNum": 5,
+                "orderStatus": "待发货",
+                "tradeNo": "963b57794d675017cc9e14fe6867f0f6",
+                "outTradeNo": "963b57794d675017cc9e14fe6867f0f6",
+                "id": 1006,
+                "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu81-macbook.jpg",
+                "orderPrice": 12999,
+                "refundStatus": 0,
+                "refundStatusString": "",
+                "skuId": 12,
+                "skuName": "Apple MacBook Pro 14英寸 M3 Pro芯片",
+                "skuNum": 1,
+                "sourceType": "QUERY",
+                "orderDetailList": [
+                    {
+                        "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu81-airpods.jpg",
+                        "skuName": "Apple AirPods Pro (第二代)",
+                        "skuNum": 2
+                    },
+                    {
+                        "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu81-airpods.jpg",
+                        "skuName": "Apple AirPods Pro (第二代)",
+                        "skuNum": 4
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,160 @@
+[
+    {
+        "attrsList": [
+            {
+                "attrId": 1,
+                "attrName": "颜色",
+                "attrValueList": [
+                    "红色",
+                    "蓝色",
+                    "黑色",
+                    "白色"
+                ]
+            },
+            {
+                "attrId": 2,
+                "attrName": "尺寸",
+                "attrValueList": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            },
+            {
+                "attrId": 3,
+                "attrName": "材质",
+                "attrValueList": [
+                    "纯棉",
+                    "涤纶",
+                    "混纺",
+                    "羊毛"
+                ]
+            }
+        ],
+        "goodsList": [
+            {
+                "id": 1,
+                "name": "时尚休闲牛仔裤",
+                "price": 299,
+                "imgUrl": "mobile01.png",
+                "goodsDesc": "舒适透气，时尚百搭",
+                "brandName": "Lee",
+                "attrs": "颜色:蓝色;尺寸:M;材质:纯棉"
+            },
+            {
+                "id": 2,
+                "name": "纯棉短袖T恤",
+                "price": 129,
+                "imgUrl": "mobile02.png",
+                "goodsDesc": "柔软亲肤，简约大方",
+                "brandName": "Uniqlo",
+                "attrs": "颜色:白色;尺寸:L;材质:纯棉"
+            },
+            {
+                "id": 3,
+                "name": "运动休闲鞋",
+                "price": 499,
+                "imgUrl": "mobile03.png",
+                "goodsDesc": "轻便舒适，减震防滑",
+                "brandName": "Nike",
+                "attrs": "颜色:黑色;尺寸:42;材质:合成革"
+            },
+            {
+                "id": 4,
+                "name": "商务休闲衬衫",
+                "price": 399,
+                "imgUrl": "mobile04.png",
+                "goodsDesc": "挺括有型，商务必备",
+                "brandName": "Hugo Boss",
+                "attrs": "颜色:蓝色;尺寸:M;材质:混纺"
+            },
+            {
+                "id": 5,
+                "name": "时尚连衣裙",
+                "price": 599,
+                "imgUrl": "mobile05.png",
+                "goodsDesc": "优雅大方，气质出众",
+                "brandName": "Zara",
+                "attrs": "颜色:红色;尺寸:M;材质:涤纶"
+            },
+            {
+                "id": 6,
+                "name": "男士休闲外套",
+                "price": 699,
+                "imgUrl": "mobile06.png",
+                "goodsDesc": "防风保暖，时尚百搭",
+                "brandName": "Jack & Jones",
+                "attrs": "颜色:黑色;尺寸:L;材质:混纺"
+            },
+            {
+                "id": 7,
+                "name": "女士高跟鞋",
+                "price": 799,
+                "imgUrl": "mobile01.png",
+                "goodsDesc": "舒适稳当，气质优雅",
+                "brandName": "Jimmy Choo",
+                "attrs": "颜色:黑色;尺寸:38;材质:真皮"
+            },
+            {
+                "id": 8,
+                "name": "运动卫衣",
+                "price": 399,
+                "imgUrl": "mobile02.png",
+                "goodsDesc": "柔软舒适，运动必备",
+                "brandName": "Adidas",
+                "attrs": "颜色:蓝色;尺寸:M;材质:纯棉"
+            },
+            {
+                "id": 9,
+                "name": "时尚手包",
+                "price": 899,
+                "imgUrl": "mobile03.png",
+                "goodsDesc": "精致小巧，时尚百搭",
+                "brandName": "Coach",
+                "attrs": "颜色:棕色;尺寸:均码;材质:真皮"
+            },
+            {
+                "id": 10,
+                "name": "保暖羽绒服",
+                "price": 1299,
+                "imgUrl": "mobile04.png",
+                "goodsDesc": "保暖轻盈，防风防水",
+                "brandName": "Canada Goose",
+                "attrs": "颜色:黑色;尺寸:L;材质:尼龙"
+            }
+        ],
+        "pageNo": 1,
+        "pageSize": 10,
+        "total": 26,
+        "totalPages": 3,
+        "trademarketList": [
+            {
+                "id": 1,
+                "name": "Lee",
+                "logo": "https://neeko-copilot.bytedance.net/api/text2image?prompt=Lee%20logo&size=200x200"
+            },
+            {
+                "id": 2,
+                "name": "Uniqlo",
+                "logo": "https://neeko-copilot.bytedance.net/api/text2image?prompt=Uniqlo%20logo&size=200x200"
+            },
+            {
+                "id": 3,
+                "name": "Nike",
+                "logo": "https://neeko-copilot.bytedance.net/api/text2image?prompt=Nike%20logo&size=200x200"
+            },
+            {
+                "id": 4,
+                "name": "Hugo Boss",
+                "logo": "https://neeko-copilot.bytedance.net/api/text2image?prompt=Hugo%20Boss%20logo&size=200x200"
+            },
+            {
+                "id": 5,
+                "name": "Zara",
+                "logo": "https://neeko-copilot.bytedance.net/api/text2image?prompt=Zara%20logo&size=200x200"
+            }
+        ]
+    }
+]
